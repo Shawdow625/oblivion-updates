@@ -1,0 +1,12 @@
+{
+  "version": "0.2.10",
+  "notes": "# Oblivion 0.2.10 Windows v2 receipt repair candidate\n\nUses a dedicated managed updater directory for atomic handoff receipts on encrypted Windows profiles, retaining legacy-receipt acknowledgment and all signature, HTTPS, origin, DNS, version and downgrade protections. Version-bound qualification successor; application logic and assets match the repaired baseline.\n\nLocal candidate only. Native repaired-version updater acceptance remains pending. No publication, installation or friends distribution of these new bytes is approved.",
+  "pub_date": "2026-10-24T22:38:38.910Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://shawdow625.github.io/oblivion-updates/releases/0.2.10/Oblivion_0.2.10_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRU0dvSUR3NlNyOVBWU1lkKzRDRmt5M2orZFJhVE1pQUpuR3BDb3QwQWc1eCtOSDAzbWNOd2NCZForOHNSZ2YyMGpScXQxcHJFRFdqeUs3SThJbG82YnAwQUN5eGpsQWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODgxNTE4CWZpbGU6T2JsaXZpb25fMC4yLjEwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTAKS1RpZFZ3NmpOYUNGWjk5enBpYlcyTzhrMzlFbE5iQ3dFYTNkZlBQNVNrdC9EK1hPVUdkK08zZTZ5dmxsejBDbjJ2R1A1eENtWUVxTE1MNExuZVZNQ3c9PQo=",
+      "size": 12397466
+    }
+  }
+}
